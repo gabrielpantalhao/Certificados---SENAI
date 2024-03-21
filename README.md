@@ -4,7 +4,7 @@
 ### Para atualizar os dados no GitHub utilize:
 
 ```
-    git clone {link copiado da pasta do github} .
+    git clone https://github.com/gabrielpantalhao/Certificados---SENAI.git .
 ```
 
 ### Se feito alguma alteração na pasta local que o arquivo foi copiado, utilize os comandos para atualizar no GitHub:
